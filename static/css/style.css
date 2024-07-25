@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    background-color: #0A0909;
+    text-align: center;
+}
+
+article{
+    width: 100vw;
+    margin: 20px;
+}
+
+header>img{
+    width: 100vw;
+}
+
+main>article{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+article>img{
+    border-radius: 56px;
+}
